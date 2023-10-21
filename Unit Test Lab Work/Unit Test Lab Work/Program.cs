@@ -14,7 +14,12 @@ namespace Unit_Test_Lab_Work
     {
         public int Add(int a, int b)
         {
-            return 0;
+            return a + b;
+        }
+
+        public int Multiply(int a, int b)
+        {
+            return a * b;
         }
     }
 }
