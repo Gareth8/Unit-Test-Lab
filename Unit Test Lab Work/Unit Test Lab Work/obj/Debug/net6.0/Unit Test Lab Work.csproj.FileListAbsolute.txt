@@ -1,0 +1,15 @@
+C:\Users\georg\Source\Repos\Unit-Test-Lab\Unit Test Lab Work\Unit Test Lab Work\bin\Debug\net6.0\Unit Test Lab Work.exe
+C:\Users\georg\Source\Repos\Unit-Test-Lab\Unit Test Lab Work\Unit Test Lab Work\bin\Debug\net6.0\Unit Test Lab Work.deps.json
+C:\Users\georg\Source\Repos\Unit-Test-Lab\Unit Test Lab Work\Unit Test Lab Work\bin\Debug\net6.0\Unit Test Lab Work.runtimeconfig.json
+C:\Users\georg\Source\Repos\Unit-Test-Lab\Unit Test Lab Work\Unit Test Lab Work\bin\Debug\net6.0\Unit Test Lab Work.dll
+C:\Users\georg\Source\Repos\Unit-Test-Lab\Unit Test Lab Work\Unit Test Lab Work\bin\Debug\net6.0\Unit Test Lab Work.pdb
+C:\Users\georg\Source\Repos\Unit-Test-Lab\Unit Test Lab Work\Unit Test Lab Work\obj\Debug\net6.0\Unit Test Lab Work.csproj.AssemblyReference.cache
+C:\Users\georg\Source\Repos\Unit-Test-Lab\Unit Test Lab Work\Unit Test Lab Work\obj\Debug\net6.0\Unit Test Lab Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Source\Repos\Unit-Test-Lab\Unit Test Lab Work\Unit Test Lab Work\obj\Debug\net6.0\Unit Test Lab Work.AssemblyInfoInputs.cache
+C:\Users\georg\Source\Repos\Unit-Test-Lab\Unit Test Lab Work\Unit Test Lab Work\obj\Debug\net6.0\Unit Test Lab Work.AssemblyInfo.cs
+C:\Users\georg\Source\Repos\Unit-Test-Lab\Unit Test Lab Work\Unit Test Lab Work\obj\Debug\net6.0\Unit Test Lab Work.csproj.CoreCompileInputs.cache
+C:\Users\georg\Source\Repos\Unit-Test-Lab\Unit Test Lab Work\Unit Test Lab Work\obj\Debug\net6.0\Unit Test Lab Work.dll
+C:\Users\georg\Source\Repos\Unit-Test-Lab\Unit Test Lab Work\Unit Test Lab Work\obj\Debug\net6.0\refint\Unit Test Lab Work.dll
+C:\Users\georg\Source\Repos\Unit-Test-Lab\Unit Test Lab Work\Unit Test Lab Work\obj\Debug\net6.0\Unit Test Lab Work.pdb
+C:\Users\georg\Source\Repos\Unit-Test-Lab\Unit Test Lab Work\Unit Test Lab Work\obj\Debug\net6.0\Unit Test Lab Work.genruntimeconfig.cache
+C:\Users\georg\Source\Repos\Unit-Test-Lab\Unit Test Lab Work\Unit Test Lab Work\obj\Debug\net6.0\ref\Unit Test Lab Work.dll
