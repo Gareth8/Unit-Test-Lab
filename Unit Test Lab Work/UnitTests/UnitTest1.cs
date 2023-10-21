@@ -7,6 +7,7 @@ namespace UnitTests
     [TestClass]
     public class UnitTest1
     {
+        #region FirstHalfOfSheet
         [TestMethod]
         public void CalculationsConstructorTest()
         {
@@ -39,5 +40,22 @@ namespace UnitTests
             int expectedResult = 12;
             Assert.AreEqual(expectedResult, result);
         }
+
+        [TestMethod]
+        public void SubtractNumbersTest()
+        {
+            Calculations calcObject = new Calculations();
+            double result = calcObject.Subtract(32, 4);
+            Assert.AreEqual(28, result);
+        }
+
+        [TestMethod]
+        [ExpectedException(typeof(System.ArgumentOutOfRangeException))]
+        public void DivideByZeroTest()
+        {
+            Calculations calcObject = new Calculations();
+            double result = calcObject.Divide(32, 0);
+        }
+        #endregion
     }
 }
