@@ -57,5 +57,47 @@ namespace UnitTests
             double result = calcObject.Divide(32, 0);
         }
         #endregion
+
+        #region SecondHalfOfSheet
+        [TestMethod]
+        public void MidRandomTest1()
+        {
+            Calculations calcObject = new Calculations();
+            int result = calcObject.Mid(1,2,3);
+            Assert.AreEqual(2, result);
+        }
+
+        [TestMethod]
+        public void MidStatementCoverageTest1()
+        {
+            Calculations calcObject = new Calculations();
+            int result = calcObject.Mid(7, 6, 8);
+            Assert.AreEqual(7, result);
+        }
+
+        [TestMethod]
+        public void MidStatementCoverageTest2()
+        {
+            Calculations calcObject = new Calculations();
+            int result = calcObject.Mid(6,5,4);
+            Assert.AreEqual(5, result);
+        }
+
+        [TestMethod]
+        public void MidStatementCoverageTest3()
+        {
+            Calculations calcObject = new Calculations();
+            int result = calcObject.Mid(10,12,9);
+            Assert.AreEqual(10, result);
+        }
+
+        [TestMethod]
+        public void NormalDivisionTest()
+        {
+            Calculations calcObject = new Calculations();
+            double result = calcObject.Divide(32, 4);
+            Assert.AreEqual(8, result);
+        }
+        #endregion
     }
 }
