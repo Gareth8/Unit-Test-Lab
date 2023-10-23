@@ -21,6 +21,7 @@ jobs:
         run: dotnet add package Microsoft.TestPlatform --version 17.5.0
 
       - name: Dependency Restore
+        working-directory: /home/runner/work/Unit-Test-Lab/Unit-Test-Lab/UnitTestLabWork/UnitTests
         run: dotnet restore
 
       - name: Project Build
