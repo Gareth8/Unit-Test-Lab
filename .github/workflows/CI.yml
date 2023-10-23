@@ -28,9 +28,9 @@ jobs:
         working-directory: /home/runner/work/Unit-Test-Lab/Unit-Test-Lab/UnitTestLabWork/UnitTestLabWork
         run: dotnet build
 
-      #- name: Project Build
-        #working-directory: /home/runner/work/Unit-Test-Lab/Unit-Test-Lab/UnitTestLabWork/UnitTests
-        #run: dotnet build
+      - name: Project Build
+        working-directory: /home/runner/work/Unit-Test-Lab/Unit-Test-Lab/UnitTestLabWork/UnitTests
+        run: dotnet build
 
       - name: Project Test
         run: dotnet test
