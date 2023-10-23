@@ -17,7 +17,7 @@ jobs:
           dotnet-version: '6.0.x'
 
       - name: Install Test Platform
-        working-directory: /home/runner/work/Unit Test Lab Work/Unit Test Lab Work
+        working-directory: /home/runner/work/Unit-Test-Lab/Unit Test Lab Work/Unit Test Lab Work
         run: dotnet add package Microsoft.TestPlatform --version 17.5.0
 
       - name: Dependency Restore
