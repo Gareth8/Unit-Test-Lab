@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\georg\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\Unit Test Lab Work\\Unit Test Lab Work.csproj": {}
+    "C:\\Users\\713164\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\Unit Test Lab Work\\Unit Test Lab Work.csproj": {}
   },
   "projects": {
-    "C:\\Users\\georg\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\Unit Test Lab Work\\Unit Test Lab Work.csproj": {
+    "C:\\Users\\713164\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\Unit Test Lab Work\\Unit Test Lab Work.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\georg\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\Unit Test Lab Work\\Unit Test Lab Work.csproj",
+        "projectUniqueName": "C:\\Users\\713164\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\Unit Test Lab Work\\Unit Test Lab Work.csproj",
         "projectName": "Unit Test Lab Work",
-        "projectPath": "C:\\Users\\georg\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\Unit Test Lab Work\\Unit Test Lab Work.csproj",
-        "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\georg\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\Unit Test Lab Work\\obj\\",
+        "projectPath": "C:\\Users\\713164\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\Unit Test Lab Work\\Unit Test Lab Work.csproj",
+        "packagesPath": "C:\\Users\\713164\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\713164\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\Unit Test Lab Work\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\713164\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

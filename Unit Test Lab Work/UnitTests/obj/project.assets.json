@@ -599,14 +599,14 @@
           }
         }
       },
-      "Unit Test Lab Work/1.0.0": {
+      "UnitTestLabWork/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Unit Test Lab Work.dll": {}
+          "bin/placeholder/UnitTestLabWork.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Unit Test Lab Work.dll": {}
+          "bin/placeholder/UnitTestLabWork.dll": {}
         }
       }
     }
@@ -2303,10 +2303,10 @@
         "system.threading.tasks.nuspec"
       ]
     },
-    "Unit Test Lab Work/1.0.0": {
+    "UnitTestLabWork/1.0.0": {
       "type": "project",
-      "path": "../Unit Test Lab Work/Unit Test Lab Work.csproj",
-      "msbuildProject": "../Unit Test Lab Work/Unit Test Lab Work.csproj"
+      "path": "../Unit Test Lab Work/UnitTestLabWork.csproj",
+      "msbuildProject": "../Unit Test Lab Work/UnitTestLabWork.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2314,28 +2314,28 @@
       "MSTest.TestAdapter >= 2.2.10",
       "MSTest.TestFramework >= 2.2.10",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
-      "Unit Test Lab Work >= 1.0.0",
+      "UnitTestLabWork >= 1.0.0",
       "coverlet.collector >= 3.2.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\georg\\.nuget\\packages\\": {},
+    "C:\\Users\\713164\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\georg\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\713164\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "C:\\Users\\georg\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\UnitTests\\UnitTests.csproj",
-      "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\georg\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\UnitTests\\obj\\",
+      "projectPath": "C:\\Users\\713164\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\UnitTests\\UnitTests.csproj",
+      "packagesPath": "C:\\Users\\713164\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\713164\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\713164\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2351,8 +2351,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\georg\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\Unit Test Lab Work\\Unit Test Lab Work.csproj": {
-              "projectPath": "C:\\Users\\georg\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\Unit Test Lab Work\\Unit Test Lab Work.csproj"
+            "C:\\Users\\713164\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\Unit Test Lab Work\\UnitTestLabWork.csproj": {
+              "projectPath": "C:\\Users\\713164\\Source\\Repos\\Unit-Test-Lab\\Unit Test Lab Work\\Unit Test Lab Work\\UnitTestLabWork.csproj"
             }
           }
         }
@@ -2400,7 +2400,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
