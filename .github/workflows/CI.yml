@@ -21,7 +21,7 @@ jobs:
         run: dotnet add package Microsoft.TestPlatform --version 17.5.0
 
       - name: Dependency Restore
-        run: dotnet build
+        run: dotnet restore
 
       - name: Project Build
         run: dotnet build
