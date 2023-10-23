@@ -1,6 +1,6 @@
 ﻿using System.Data;
 
-namespace Unit_Test_Lab_Work
+namespace UnitTestLabWork
 {
     internal class Program
     {
